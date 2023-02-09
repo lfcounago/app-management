@@ -1,4 +1,4 @@
-# app-management-
+# App for the management of an ecofarm
 app for the management of an ecofarm
 
 Proyecto sobre la gestión de actividades de una eco-granja. Se podrá; ver que actividades se ofertan y cuándo, reservar plaza en ellas y ver el precio de cada actividad. Para todo esto hay que darse de alta, para poder consultar las actividades, modificar o cancelar sus reservas. 
