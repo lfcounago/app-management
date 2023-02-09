@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1608229583 source:c:\users\luisf\onedrive\escritorio\esei 20-21\1c\pro i\prácticas\proyecto individual\nuevo\proyecto individual\main.cpp
+	<iostream>
+	<locale.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1608662437 source:c:\users\luisf\onedrive\escritorio\esei 20-21\1c\pro i\prácticas\proyecto individual\proyecto individual\main.cpp
+	<iostream>
+	<locale.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1608662437 source:c:\users\luisf\onedrive\escritorio\esei 20-21\1c\pro i\prácticas\proyecto individual\proyecto luis fernández couñago\main.cpp
+	<iostream>
+	<locale.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1608750351 source:c:\users\luisf\onedrive\escritorio\proyecto luis fernández couñago\app-gestion\main.cpp
+	<iostream>
+	<locale.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
